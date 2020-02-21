@@ -1,0 +1,18 @@
+#
+# gridID 25
+# KNMI-RACMO21P_v1
+#
+gridtype  = lonlat
+gridsize  = 50400
+xname     = lon
+xlongname = longitude
+xunits    = degrees_east
+yname     = lat
+ylongname = latitude
+yunits    = degrees_north
+xsize     = 720
+ysize     = 70
+xfirst    = -179.75
+xinc      = 0.5
+yfirst    = -89.75
+yinc      = 0.5
